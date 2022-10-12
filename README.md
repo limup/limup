@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limup&label=Profile%20views&color=0e75b6&style=flat" alt="limup" /> </p>
 
-- 🔭 I’m currently working on [VestApp App](https://github.com/limup/vestapp-aplicativo)
+- 🔭 I’m currently working on [Authentic Credit Brazil](https://github.com/Authentic-Credit-Brazil) and [VestApp](https://github.com/vestapp)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter**, I'm updating **Ionic** and **dotnet core 7**
 
 - 👯 I’m looking to collaborate on [Limup](https://github.com/limup/tutorial-projects)
 
