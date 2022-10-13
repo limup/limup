@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnaldo Vieira</h1>
-<h3 align="center">I'm just coding and alway learning. Actually, I code C#/dotnet core, Ionic, Angular and I apply devops in my projects (Docker/Jenkins/Terraform).</h3>
+<h3 align="center">I'm just coding and alway learning. Actually, I code backend(C#/dotnet core), (App)Ionic, (Frontend)Angular and Figma, (SQL)MySQL, MariaDB and SQL Server, (NoSQL)MongoDB. I apply devops in my projects (Docker/Jenkins/Terraform).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limup&label=Profile%20views&color=0e75b6&style=flat" alt="limup" /> </p>
 
