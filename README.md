@@ -19,6 +19,14 @@
 <a href="https://linkedin.com/in/arnaldovieiradelimajunior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnaldovieiradelimajunior" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18238656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18238656" height="30" width="40" /></a>
 <a href="https://instagram.com/_arnaldo.vieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arnaldo.vieira" height="30" width="40" /></a>
+<a href="https://twitter.com/_arnaldovieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_arnaldovieira" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Connect on Authentic Credit Brazil:</h3>
+<p align="left">
+<a href="https://linkedin.com/company/authentic-credit-brazil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnaldovieiradelimajunior" height="30" width="40" /></a>
+<a href="https://instagram.com/authenticcreditbrazil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arnaldo.vieira" height="30" width="40" /></a>
+<a href="https://twitter.com/acreditbrazil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_arnaldovieira" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
