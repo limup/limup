@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Authentic Credit Brazil](https://github.com/Authentic-Credit-Brazil) and [VestApp](https://github.com/vestapp)
 
-- 🌱 I’m currently learning **Flutter**, I'm updating **Ionic** and **dotnet core 7**
+- 🌱 I’m currently learning **Flutter**, I'm updating **Ionic** and **dotnet core 7** with **C# 11**
 
 - 👯 I’m looking to collaborate on [Limup](https://github.com/limup/tutorial-projects)
 
